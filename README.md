@@ -9,14 +9,14 @@
 <a href="https://www.linkedin.com/in/arbaz9234/" target="_blank">
   <img src="https://img.shields.io/badge/Open%20to%20Remote%20Roles-CCFFCC?style=flat-square&logo=checkmarx&logoColor=000000" alt="open to work" />
 </a>
-&nbsp;
-<a href="https://iiitu.ac.in/">
+
+<a href="https://iiitu.ac.in/" target="_blank">
   <img src="https://img.shields.io/badge/B.Tech%20CSE-IIIT%20Una-764ABC?style=flat-square" alt="education" />
 </a>
 <br/>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbaz9234/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbaz9234/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbaz9234@gmail.com)
 <!--[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arbaz9234)-->
 
