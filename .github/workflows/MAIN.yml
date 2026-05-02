@@ -19,11 +19,13 @@ jobs:
       # Generate snake animation
       - uses: Platane/snk@v3
         with:
-          github_user_name: Arbaz9234
+          github_user_name: arbaz9234
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
 
+
+      
       # Deploy to output branch
       - uses: crazy-max/ghaction-github-pages@v4
         with:
