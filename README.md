@@ -115,29 +115,25 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arbaz9234&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Arbaz9234&theme=react&hide_border=true" alt="GitHub Streak" />
-
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Arbaz9234&theme=react&hide_border=true" alt="GitHub Streak"/>
 <br/><br/>
 
 <!-- <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arbaz9234&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" /> 
 
 <br/><br/> -->
 <br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz9234&theme=react-dark&hide_border=true&area=true&show_owner=false" alt="Contribution Graph" />
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz9234&theme=react-dark&hide_border=true&area=true&show_owner=false&cache_seconds=1800" alt="Contribution Graph" />
 </div>
 
 ---
 
-<!-- ## 🐍 Contribution Snake
+ ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Arbaz9234/Arbaz9234/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
 
-> ⚙️ To activate the snake: create `.github/workflows/snake.yml` in this repo with the GitHub Action from [Platane/snk](https://github.com/Platane/snk), then run it once manually.
-
---- 
+<!-- --- 
 
 ## 🏆 Certifications & Achievements
 
