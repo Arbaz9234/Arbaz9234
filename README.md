@@ -117,8 +117,8 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arbaz9234&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Arbaz9234&theme=react&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arbaz9234&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Arbaz9234&theme=react&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
 <br/><br/>
 
 <!-- <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arbaz9234&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
