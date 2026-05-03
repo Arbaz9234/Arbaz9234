@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=Arbaz9234&color=61dafb&style=flat-square&label=Profile+Views" alt="profile views" /> -->
+<img src="https://komarev.com/ghpvc/?username=Arbaz9234&color=61dafb&style=flat-square&label=Profile+Views" alt="profile views" />
 <a href="https://www.linkedin.com/in/arbaz9234/" target="_blank">
   <img src="https://img.shields.io/badge/Open%20to%20Remote%20Roles-CCFFCC?style=flat-square&logo=checkmarx&logoColor=000000" alt="open to work" />
 </a>
@@ -15,9 +15,9 @@
 </a>
 <br/>
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbaz9234/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbaz9234@gmail.com)
+
 <!--[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arbaz9234)-->
 
 </div>
@@ -36,7 +36,7 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 ---
 
-## Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20>
+## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20>
 
 **Frontend**
 
@@ -73,17 +73,20 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 > These were real production systems built at XenonStack, used by real teams.
 
-### 📦 Procurement Management System · *XenonStack*
+### 📦 Procurement Management System · _XenonStack_
+
 - Built a React system handling **50+ purchase orders** with RFQ generation and AI-powered vendor recommendations
 - Designed interactive dashboards with multi-tab workflows and Chart.js data visualizations
 - `React` · `Redux` · `Chart.js` · `REST API`
 
-### 📄 Contract Management System · *XenonStack*
+### 📄 Contract Management System · _XenonStack_
+
 - Built document workflow supporting **100+ uploads** with markdown previews and AI-driven contract queries
 - Implemented real-time editing, automated generation, and comparison features — **cut review time by 30%**
 - `React` · `TailwindCSS` · `REST API` · `Markdown Viewer`
 
 ### 🌐 HubSpot CMS — Landing Pages & Performance
+
 - Engineered **15+ responsive landing pages** using HubL on HubSpot CMS
 - Improved PageSpeed Insights from **40 → 80** (Poor → Good) through front-end optimization
 - `HubL` · `HubSpot CMS` · `Core Web Vitals`
@@ -102,11 +105,11 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 </div>
 
-| Project | What it does | Stack |
-|---|---|---|
+| Project                                                                      | What it does                                                                       | Stack                   |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------- |
 | [🤖 Frontend Tutor Agent](https://github.com/Arbaz9234/frontend-tutor-agent) | AI agent that generates clean HTML/CSS from natural language — built for beginners | JavaScript · Gemini API |
-| [📋 Kanban Board](https://github.com/Arbaz9234/Kanban-Board) | Drag-and-drop task board with optimistic UI updates and rollback on failure | React 19 |
-| [🕯️ Wick & Aura](https://github.com/Arbaz9234/wick-and-aura) | Product showcase site for a candle brand | JavaScript |
+| [📋 Kanban Board](https://github.com/Arbaz9234/Kanban-Board)                 | Drag-and-drop task board with optimistic UI updates and rollback on failure        | React 19                |
+| [🕯️ Wick & Aura](https://github.com/Arbaz9234/wick-and-aura)                 | Product showcase site for a candle brand                                           | JavaScript              |
 
 ---
 
@@ -118,7 +121,7 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Arbaz9234&theme=react&hide_border=true" alt="GitHub Streak"/>
 <br/><br/>
 
-<!-- <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arbaz9234&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" /> 
+<!-- <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arbaz9234&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/> -->
 <br/>
@@ -127,13 +130,13 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 ---
 
- ## 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Arbaz9234/Arbaz9234/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
 
-<!-- --- 
+<!-- ---
 
 ## 🏆 Certifications & Achievements
 
