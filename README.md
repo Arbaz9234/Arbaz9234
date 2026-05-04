@@ -125,7 +125,7 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 <br/><br/> -->
 <br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz9234&theme=react-dark&hide_border=true&area=true&show_owner=false&cache_seconds=1800" alt="Contribution Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz9234&theme=react-dark&hide_border=true&area=true&show_owner=false&cache_seconds=60" alt="Contribution Graph" />
 </div>
 
 ---
