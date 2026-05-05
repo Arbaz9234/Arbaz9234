@@ -93,6 +93,16 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 ---
 
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Arbaz9234/Arbaz9234/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+</div>
+
+<br>
+
 ## 🚀 Personal Projects
 
 <div align="center">
