@@ -105,15 +105,15 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 </div>
 
-| Project                                                                      | What it does                                                                       | Stack                   |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------- |
-| [🤖 Frontend Tutor Agent](https://github.com/Arbaz9234/frontend-tutor-agent) | AI agent that generates clean HTML/CSS from natural language — built for beginners | JavaScript · Gemini API |
-| [📋 Kanban Board](https://github.com/Arbaz9234/Kanban-Board)                 | Drag-and-drop task board with optimistic UI updates and rollback on failure        | React 19                |
-| [🕯️ Wick & Aura](https://github.com/Arbaz9234/wick-and-aura)                 | Product showcase site for a candle brand                                           | JavaScript              |
+| Project                                                                    | What it does                                                                       | Stack                   |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------- |
+| [ Frontend Tutor Agent](https://github.com/Arbaz9234/frontend-tutor-agent) | AI agent that generates clean HTML/CSS from natural language — built for beginners | JavaScript · Gemini API |
+| [Kanban Board](https://github.com/Arbaz9234/Kanban-Board)                  | Drag-and-drop task board with optimistic UI updates and rollback on failure        | React 19                |
+| [Wick & Aura](https://github.com/Arbaz9234/wick-and-aura)                  | Product showcase site for a candle brand                                           | JavaScript              |
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
 
@@ -121,20 +121,15 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 <img width="49%" src="https://github-readme-streak-stats-sigma-five.vercel.app?user=Arbaz9234&theme=react&hide_border=true&cache_seconds=60" alt="GitHub Streak"/>
 <br/><br/>
 
-<!-- <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arbaz9234&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
+ <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arbaz9234&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<br/><br/> -->
+<br/><br/>
 <br/>
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arbaz9234&theme=react-dark&hide_border=true&area=true&show_owner=false&cache_seconds=60" alt="Contribution Graph" />
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Arbaz9234/Arbaz9234/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-</div>
+-->
 
 <!-- ---
 
@@ -147,7 +142,7 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 --- -->
 
-## 📫 Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=40>
+## Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=40>
 
 I'm actively looking for full-time and remote frontend / full-stack roles. If you're building something interesting — or just want to talk code — I'm in.
 
