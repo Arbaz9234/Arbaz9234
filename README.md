@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Arbaz9234&color=61dafb&style=flat-square&label=Profile+Views" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Arbaz9234&color=61dafb&style=flat-square&label=Profile+Views" alt="profile views" /> -->
 <a href="https://www.linkedin.com/in/arbaz9234/" target="_blank">
   <img src="https://img.shields.io/badge/Open%20to%20Remote%20Roles-CCFFCC?style=flat-square&logo=checkmarx&logoColor=000000" alt="open to work" />
 </a>
