@@ -24,7 +24,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a Frontend Developer who's shipped production React apps used by **500+ daily active users** at XenonStack. I care about performance, clean UI, and writing code that doesn't embarrass you six months later.
 
@@ -69,7 +69,7 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 ---
 
-## 🏭 Work That Shipped
+## Work That Shipped
 
 > These were real production systems built at XenonStack, used by real teams.
 
@@ -103,7 +103,7 @@ I'm a Frontend Developer who's shipped production React apps used by **500+ dail
 
 <br>
 
-## 🚀 Personal Projects
+## Personal Projects
 
 <div align="center">
 
